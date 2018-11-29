@@ -1,0 +1,61 @@
+    body{
+      margin: 0;
+      padding: 0;
+      background-color: #F5F5F5;
+    }
+    .brand-logo{
+      margin-left: 10px !important;
+    }
+    .date{
+      color: #212121;
+      font-weight: 300;
+    }
+    .card-panel{
+      background-color: #fff;
+    }
+    .navigation h1{
+      font-family: fantasy;  
+    }
+    .btn{
+      color: white;
+    }
+      /* label color */
+   .input-field label {
+     color: #424242; 
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+     color: #424242;
+   }
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+     border-bottom: 1px solid #424242;
+     box-shadow: 0 1px 0 0 #424242;
+   }
+   input,textarea{
+    color: white;
+   }
+   .input-field textarea:focus + label {
+    color: #424242;
+   }
+   .input-field textarea.materialize-textarea:focus + label{
+    color: #424242;
+   }
+   .input-field textarea.materialize-textarea:focus{
+    border-bottom: 1px solid #424242;
+   }
+   .collapsible{
+    background-color: #E57373;
+          }
+          .brand-logo{
+            margin-left: 10px;
+          }
+          .background{
+            background: url('cover (2).jpg');
+          }
+          .profileview li{
+            margin: -25px 0px 0px 0px;
+          }
+          .circle{
+            margin-left: 10px;
+          }

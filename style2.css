@@ -1,0 +1,41 @@
+    body{
+      margin: 0;
+      padding: 0;
+      background-color: #F5F5F5;
+    }
+    
+  
+   .collapsible{
+            background-color: #E57373;
+          }
+          .brand-logo{
+            margin-left: 10px;
+          }
+          .background{
+            background: url('cover (2).jpg');
+          }
+          .profileview li{
+            margin: -25px 0px 0px 0px;
+          }
+          .circle{
+            margin-left: 10px;
+          }
+
+
+  .htext{
+    font-weight: 300;
+
+  }
+
+
+
+          .collapsible-body{
+            background-color: #fff;
+          }
+          .something{
+            margin: 0px 10px 0px 10px;
+          }
+          .data{
+            padding: 5px;
+            color: white;
+          }
